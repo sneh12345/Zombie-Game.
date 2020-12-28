@@ -35,13 +35,12 @@ function setup() {
  if(bullet.isTouching(Zombie)){
 
   rotate(24, [27]);
-  scream.play();
-
+ 
 
  }
 
 }
-scream.play();
+
 function preload(){
 nightIMG = loadImage("../Pictures/Night time warzone.jpg")
 survivalistIMG = loadImage('../Pictures/Survivalist.png');
