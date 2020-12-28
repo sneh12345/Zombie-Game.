@@ -49,7 +49,6 @@ zombieIMG = loadImage('../Pictures/TransparentZombie.png');
 bulletIMG = loadImage('../Pictures/bullet.png')
 morningIMG = loadImage('../Pictures/warzone(1).jpg')
 
-scream = loadSound('Sounds/Scream.mp3');
 
 }
 
